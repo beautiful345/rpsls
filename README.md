@@ -3,7 +3,7 @@
 """
 第一个小项目：Rock-paper-scissors-lizard-Spock
 作者：张姣
-日期：2021/06/04
+日期：2021/06/09
 """
 
 import random
